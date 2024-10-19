@@ -6,6 +6,7 @@
 //
 
 import XCTest
+@testable import PruebasUnitarias_EjercicioEvaluativos
 
 class PruebasUnitarias_EjercicioEvaluativosTests: XCTestCase {
     

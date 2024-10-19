@@ -17,7 +17,6 @@
 		77790AD62CC20F2500E6C7CD /* PruebasUnitarias_EjercicioEvaluativosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77790AD52CC20F2500E6C7CD /* PruebasUnitarias_EjercicioEvaluativosTests.swift */; };
 		77790ADC2CC2108600E6C7CD /* 1PotenciaNumero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77790ACD2CC20E4100E6C7CD /* 1PotenciaNumero.swift */; };
 		77790ADE2CC2120C00E6C7CD /* 2AreaTriangulo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77790ADD2CC2120C00E6C7CD /* 2AreaTriangulo.swift */; };
-		77790ADF2CC2120F00E6C7CD /* 2AreaTriangulo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77790ADD2CC2120C00E6C7CD /* 2AreaTriangulo.swift */; };
 		77790AE12CC2130A00E6C7CD /* 3ParImpar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77790AE02CC2130A00E6C7CD /* 3ParImpar.swift */; };
 		77790AE22CC2130A00E6C7CD /* 3ParImpar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77790AE02CC2130A00E6C7CD /* 3ParImpar.swift */; };
 		77790AE72CC214E200E6C7CD /* 4Palindromo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77790AE62CC214E200E6C7CD /* 4Palindromo.swift */; };
@@ -246,7 +245,6 @@
 				77790AE22CC2130A00E6C7CD /* 3ParImpar.swift in Sources */,
 				77790AEE2CC2176D00E6C7CD /* 5ContadorVocales.swift in Sources */,
 				77790AD62CC20F2500E6C7CD /* PruebasUnitarias_EjercicioEvaluativosTests.swift in Sources */,
-				77790ADF2CC2120F00E6C7CD /* 2AreaTriangulo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
